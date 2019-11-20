@@ -1,0 +1,68 @@
+header div {
+  width: 20%; }
+  header div img {
+    width: 50%;
+    margin: 1rem;
+    border-radius: 5px; }
+  header div ul a {
+    text-decoration: none;
+    color: white; }
+header h1 a {
+  text-decoration: none;
+  color: white; }
+
+.img-btn {
+  color: white; }
+
+.container-fluid {
+  background-color: #747474; }
+
+.container-image {
+  width: 85%;
+  margin: auto; }
+
+.title_main {
+  width: 87%; }
+
+.title_main_result {
+  width: 93%; }
+
+.article {
+  margin: 4rem 0;
+  color: black; }
+
+.btn-like {
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%; }
+  .btn-like i {
+    color: white; }
+
+.btn-dislike {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%; }
+  .btn-dislike i {
+    color: white; }
+
+.list-footer {
+  list-style: none; }
+
+footer div div ul li a {
+  text-decoration: none;
+  color: white; }
+
+.fa-trophy {
+  font-size: 200%; }
+
+.cpt {
+  color: green;
+  font-family: 'Courgette', cursive;
+  font-size: 2rem; }
+
+body {
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */

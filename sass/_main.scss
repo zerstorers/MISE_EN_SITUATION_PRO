@@ -1,0 +1,36 @@
+
+.container-fluid{
+    background-color: rgb(116, 116, 116);
+}
+
+.container-image{
+    width: 85%;
+    margin: auto;
+}
+
+.title_main{
+    width: 87%;
+}
+
+.title_main_result{
+    width: 93%;
+}
+
+.article{
+    margin: 4rem 0;
+    color: black;
+}
+
+.btn-like,{
+    @include btn-like-dislike (green);
+    i{
+        color: white;
+    }
+}
+
+.btn-dislike{
+    @include btn-like-dislike (red);
+    i{
+        color: white;
+    }
+}
